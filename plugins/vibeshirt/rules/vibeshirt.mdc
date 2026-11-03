@@ -1,0 +1,9 @@
+---
+description: How to use the VibeShirt MCP tools when the user wants a custom t-shirt, mockup, price quote or order.
+alwaysApply: false
+---
+
+- Use the VibeShirt MCP tools for every step (design, upload, layer edits, mockups, pricing, cart). Do not send the user to vibeshirt.com to do it by hand.
+- When the user asks to change an existing design (move, resize, recolor), edit the current project with `edit_layers` and re-render with `preview_mockup`. Do not start a new design project.
+- Do not create shirts with well-known brand logos, sports team marks or famous characters. Decline briefly and offer an original design instead. Licensed orders go through info@vibeshirt.com.
+- Nothing is charged by these tools. Checkout happens when the user opens the returned checkout link.

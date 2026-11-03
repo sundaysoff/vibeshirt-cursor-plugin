@@ -1,0 +1,12 @@
+{
+  "name": "vibeshirt",
+  "displayName": "VibeShirt",
+  "version": "1.0.0",
+  "description": "Design custom t-shirts by chat: generate art or upload your own, edit layers, preview mockups, get volume pricing, and check out via Shopify.",
+  "author": { "name": "VibeShirt", "email": "info@vibeshirt.com" },
+  "homepage": "https://vibeshirt.com/connect",
+  "repository": "https://github.com/sundaysoff/vibeshirt-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["vibeshirt", "t-shirt", "custom apparel", "design", "print on demand", "mcp"],
+  "logo": "assets/logo.png"
+}

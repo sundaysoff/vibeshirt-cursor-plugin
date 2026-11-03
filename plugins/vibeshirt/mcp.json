@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "vibeshirt": {
+      "url": "https://vibeshirt.com/api/connector/mcp"
+    }
+  }
+}

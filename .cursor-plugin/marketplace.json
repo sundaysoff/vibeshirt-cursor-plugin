@@ -1,0 +1,8 @@
+{
+  "name": "vibeshirt",
+  "owner": { "name": "VibeShirt", "email": "info@vibeshirt.com" },
+  "metadata": { "description": "VibeShirt custom t-shirt design plugin for Cursor", "version": "1.0.0" },
+  "plugins": [
+    { "name": "vibeshirt", "source": "./plugins/vibeshirt", "description": "Design custom t-shirts by chat, preview mockups, get pricing and check out." }
+  ]
+}
